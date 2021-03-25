@@ -1,0 +1,6 @@
+{
+	"ip":"thorium.aternos.host:25660",
+	"port": "25565",
+	"name": "afkbot1",
+	"auto-night-skip":"true"
+}
